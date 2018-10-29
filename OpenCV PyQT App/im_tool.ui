@@ -374,7 +374,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>TH_MIN</string>
+     <string>REG_TH</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_6">
@@ -400,7 +400,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>TH_MAX</string>
+     <string>CLR_TH</string>
     </property>
    </widget>
    <widget class="QComboBox" name="comboBox_3">
